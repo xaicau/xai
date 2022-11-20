@@ -7,7 +7,7 @@
 [gradcam 코드](https://github.com/jacobgil/pytorch-grad-cam)
 
 * 할일
-1. ~~transformer에 gradCAM적용 (~11/20) ~~
+1. transformer에 gradCAM적용 (~11/20) 
 2. 각자 xai기법 하나씩 적용해보기 (~11/27)
 3. 기말 레포트 작성 (~12/3)
 4. 발표 ppt만들기 (~12/3)
