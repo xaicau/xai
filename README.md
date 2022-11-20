@@ -7,11 +7,11 @@
 [gradcam 코드](https://github.com/jacobgil/pytorch-grad-cam)
 
 * 할일
-[x] transformer에 gradCAM적용 (~11/20) 
-[ ] 각자 xai기법 하나씩 적용해보기 (~11/24)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ ] attention flow (유경민)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ ] Integrated Gradients (최민혁)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ ] (류재석) 
-[ ] 실험 설계 및 실험 진행 (~11/27)
-[ ] 기말 레포트 작성 (~12/3)
-[ ] 발표 ppt만들기 (~12/3)
+- [x] transformer에 gradCAM적용 (~11/20) <br/>
+- [ ] 각자 xai기법 하나씩 적용해보기 (~11/24) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [ ] attention flow (유경민) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Integrated Gradients (최민혁) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [ ] (류재석) <br/>
+- [ ] 실험 설계 및 실험 진행 (~11/27) <br/>
+- [ ] 기말 레포트 작성 (~12/3) <br/>
+- [ ] 발표 ppt만들기 (~12/3) <br/>
