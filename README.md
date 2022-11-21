@@ -11,7 +11,8 @@
 - [ ] 각자 xai기법 하나씩 적용해보기 (~11/24) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [ ] attention flow (유경민) <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [ ] Integrated Gradients (최민혁) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [ ] (류재석) <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [ ] SHAP(Shapley Additive exPlanations)
+(류재석) <br/>
 - [ ] 실험 설계 및 실험 진행 (~11/27) <br/>
 - [ ] 기말 레포트 작성 (~12/3) <br/>
 - [ ] 발표 ppt만들기 (~12/3) <br/>
