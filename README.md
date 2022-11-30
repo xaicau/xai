@@ -2,7 +2,7 @@
 
 류재석, 유경민, 최민혁 xai 기말 과제
 
-* 리포트 작성 (https://jaeseokryu.notion.site/XAI_-Final-Exam-67da318a5aae483b86009edd04512083)
+* 리포트 작성 (https://jaeseokryu.notion.site/XAI_-Final-Exam-67da318a5aae483b86009edd04512083) </br>
   -Introduction [50% 작성] <br/>
   -Problem Formulation <br/>
   -Method <br/>
