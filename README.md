@@ -2,12 +2,12 @@
 
 류재석, 유경민, 최민혁 xai 기말 과제
 
-* 리포트 작성 
-  -Introduction [50% 작성]
-  -Problem Formulation
-  -Method
-  -Experiments
-  -Dicussion
+* 리포트 작성 (https://jaeseokryu.notion.site/XAI_-Final-Exam-67da318a5aae483b86009edd04512083)
+  -Introduction [50% 작성] <br/>
+  -Problem Formulation <br/>
+  -Method <br/>
+  -Experiments <br/>
+  -Dicussion <br/>
 
 * 참고 <br/>
 [imagenet 1000 class 이름 및 번호](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) <br/>
