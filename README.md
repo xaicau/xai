@@ -17,11 +17,11 @@
 * kaggle에서 데이터셋을 받는 방법 <br/>
 개인 kaggle token이 필요하고, 해당 json파일을 ~/.kaggle/ 에 두어야 한다. <br/>
 `
-! pip install -q kaggle
-! mkdir ~/.kaggle
-! cp kaggle.json ~/.kaggle/
-! chmod 600 ~/.kaggle/kaggle.json
-! kaggle competitions download -c 'name-of-competition'
+! pip install -q kaggle <br/>
+! mkdir ~/.kaggle <br/>
+! cp kaggle.json ~/.kaggle/ <br/>
+! chmod 600 ~/.kaggle/kaggle.json <br/>
+! kaggle competitions download -c 'name-of-competition' 
 `
 
 * 할일
