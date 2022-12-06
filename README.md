@@ -12,6 +12,17 @@
 * 참고 <br/>
 [imagenet 1000 class 이름 및 번호](https://gist.github.com/yrevar/942d3a0ac09ec9e5eb3a) <br/>
 [gradcam 코드](https://github.com/jacobgil/pytorch-grad-cam)
+[sample dataset from imagenet](https://www.kaggle.com/datasets/utkarshsaxenadn/animal-image-classification-dataset)
+
+* kaggle에서 데이터셋을 받는 방법 <br/>
+개인 kaggle token이 필요하고, 해당 json파일을 ~/.kaggle/ 에 두어야 한다. <br/>
+`
+! pip install -q kaggle
+! mkdir ~/.kaggle
+! cp kaggle.json ~/.kaggle/
+! chmod 600 ~/.kaggle/kaggle.json
+! kaggle competitions download -c 'name-of-competition'
+`
 
 * 할일
 - [x] transformer에 gradCAM적용 (~11/20) <br/>
